@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Jerry for SPOTU
+Jerry is ios/android application for SPOTU device.
+version 0.1
 
-You can use the [editor on GitHub](https://github.com/spotuinc/jerry/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 기능
+### Device 관리
+### Measure
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Screenshots
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
