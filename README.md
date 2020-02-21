@@ -6,7 +6,7 @@ Jerry는 ios/android에서 SPOTU 장비를 이용하여 생체데이터를 측�
 - 측정값을 서버로 전송합니다.
 
 ### Screenshots
-<img src="/assets/images/login.jpeg" width="20%" height="20%"/>
+<img src="/assets/images/login.png" width="20%" height="20%"/>
 <img src="/assets/images/home.jpeg" width="20%" height="20%"/>
 <img src="/assets/images/connected.png" width="20%" height="20%"/>
 <img src="/assets/images/measure.png" width="20%" height="20%"/>
