@@ -6,7 +6,11 @@ Jerry는 ios/android에서 SPOTU 장비를 이용하여 생체데이터를 측�
 - 측정값을 서버로 전송합니다.
 
 ### Screenshots
-![Login](assets/images/login.png){:width="10%" height="10%"}
+<img src="/assets/images/login.jpeg" width="20%" height="20%"/>
+<img src="/assets/images/home.jpeg" width="20%" height="20%"/>
+<img src="/assets/images/connected.png" width="20%" height="20%"/>
+<img src="/assets/images/measure.png" width="20%" height="20%"/>
+<img src="/assets/images/measure2.png" width="20%" height="20%"/>
 
 ## 사용자지원
 사용의 문제가 있거나 문의할 사항은 [admin@spotu.io](mailto://admin@spotu.io)로 보내주세요 :)
