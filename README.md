@@ -1,39 +1,18 @@
 ## Jerry for SPOTU
-Jerry is ios/android application for SPOTU device.
-version 0.1
+Jerry는 ios/android에서 SPOTU 장비를 이용하여 생체데이터를 측정할 수 있는 애플리케이션입니다.
 
-## 기능
-### Device 관리
-### Measure
+## v0.1 기능
+- _SPOTU 장비 관리
+BLE(Bluetooth Low Energy)를 사용하여 SPOTU장비와 연결합니다.
+
+- _측정
+측정값을 서버로 전송합니다.
 
 ### Screenshots
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 사용자지원
+사용의 문제가 있거나 문의할 사항은 [admin@spotu.io](mailto://admin@spotu.io)로 보내주세요 :)
 
-```markdown
-Syntax highlighted code block
+all rights reserved to [SPOTU](https://www.spotu.io/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spotuinc/jerry/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[https://www.spotu.io/](https://www.spotu.io/)
