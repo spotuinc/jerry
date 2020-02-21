@@ -13,6 +13,6 @@ BLE(Bluetooth Low Energy)를 사용하여 SPOTU장비와 연결합니다.
 ## 사용자지원
 사용의 문제가 있거나 문의할 사항은 [admin@spotu.io](mailto://admin@spotu.io)로 보내주세요 :)
 
-all rights reserved to [SPOTU](https://www.spotu.io/)
+all rights reserved to spotu
 
 [https://www.spotu.io/](https://www.spotu.io/)
